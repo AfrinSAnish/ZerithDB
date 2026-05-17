@@ -1,88 +1,96 @@
-\# Awesome ZerithDB \[!\[Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-
+# Awesome ZerithDB [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome projects, plugins, and tutorials built by the ZerithDB community.
 
+> ZerithDB is a local-first, privacy-by-architecture database. This list collects the best community-built projects, plugins, and tutorials to help you get the most out of it.
 
+---
 
-\---
+## Contents
 
+- [Official Resources](#official-resources)
+- [Getting Started](#getting-started)
+- [Tutorials & Guides](#tutorials--guides)
+- [Community Projects](#community-projects)
+- [Plugins & Integrations](#plugins--integrations)
+- [SDKs & Libraries](#sdks--libraries)
+- [Videos & Talks](#videos--talks)
+- [Articles & Blog Posts](#articles--blog-posts)
+- [Contributing](#contributing)
 
+---
 
-\## Contents
+## Official Resources
 
+- [ZerithDB GitHub](https://github.com/Zerith-Labs/ZerithDB) - Official repository
+- [ZerithDB Website](https://zerithdb.netlify.app) - Official website
+- [ZerithDB Discord](https://discord.gg/MhvuDvzWfF) - Community Discord server
+- [Contributing Guide](https://github.com/Zerith-Labs/ZerithDB/blob/main/CONTRIBUTING.md) - How to contribute
 
+---
 
-\- \[Official Resources](#official-resources)
+## Getting Started
 
-\- \[Tutorials](#tutorials)
+*Resources to help you get up and running with ZerithDB quickly.*
 
-\- \[Projects](#projects)
+- [Official README](https://github.com/Zerith-Labs/ZerithDB#readme) - Installation and quick start
 
-\- \[Plugins \& Integrations](#plugins--integrations)
+---
 
-\- \[Contributing](#contributing)
+## Tutorials & Guides
 
+*Step-by-step tutorials and guides for building with ZerithDB.*
 
+*No tutorials yet. [Add yours!](#contributing)*
 
-\---
+---
 
+## Community Projects
 
+*Open source projects built with or for ZerithDB.*
 
-\## Official Resources
+*No projects yet. [Add yours!](#contributing)*
 
+---
 
+## Plugins & Integrations
 
-\- \[ZerithDB GitHub](https://github.com/Zerith-Labs/ZerithDB) - Official repository
+*Plugins, adapters, and integrations that extend ZerithDB.*
 
-\- \[ZerithDB Website](https://zerithdb.netlify.app) - Official website
+*No plugins yet. [Add yours!](#contributing)*
 
+---
 
+## SDKs & Libraries
 
-\---
+- [ZerithDB Python SDK](https://github.com/Zerith-Labs/ZerithDB) - Official Python SDK (py3.10, py3.11, py3.12)
+- [ZerithDB JavaScript/TypeScript SDK](https://github.com/Zerith-Labs/ZerithDB) - Official JS/TS SDK
 
+---
 
+## Videos & Talks
 
-\## Tutorials
+*Conference talks, screencasts, and video tutorials.*
 
+*No videos yet. [Add yours!](#contributing)*
 
+---
 
-> Add your tutorials here!
+## Articles & Blog Posts
 
+*Written content about ZerithDB from around the web.*
 
+*No articles yet. [Add yours!](#contributing)*
 
-\---
+---
 
+## Contributing
 
+Want to add your project, plugin, tutorial, or article to this list?
 
-\## Projects
+1. Fork the repository
+2. Add your entry under the correct section with a short description
+3. Make sure the link works and is publicly accessible
+4. Submit a Pull Request with title: `docs: add [your project] to AWESOME.md`
 
-
-
-> Add your projects built with ZerithDB here!
-
-
-
-\---
-
-
-
-\## Plugins \& Integrations
-
-
-
-> Add your plugins and integrations here!
-
-
-
-\---
-
-
-
-\## Contributing
-
-
-
-Contributions welcome! Read the \[contribution guidelines](CONTRIBUTING.md) first.
-
+Please read the [contribution guidelines](CONTRIBUTING.md) before submitting.
